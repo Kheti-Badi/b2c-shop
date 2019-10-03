@@ -1,4 +1,4 @@
-# Flutter UI for  a Fruit Store
+## Flutter UI  cloned from [Emmanuel Fache](https://github.com/emrade/flutter-ui-fruit-store)
 
 A Flutter UI design implementation for a Fruit Store App inspired by <a href="https://dribbble.com/Zhubajie">Zhubajie's</a> desgin on <a href="https://dribbble.com/shots/6752461-Fresh-app">Dribble</a>.
 
